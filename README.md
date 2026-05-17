@@ -1,67 +1,60 @@
-# ⚡ Hi I'm Mohamed (MoNoahSEC)
+# 👑 Hi, I'm Mohamed (MoNoahSEC)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=40&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;Java+Developer;Linux+Enthusiast;Machine+Learning+Engineer;AI+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;AI+Explorer;Machine+Learning+Enthusiast;Egyptian+Tech+Learner" />
 </p>
 
 ---
 
-## 🎬 Animated Intro
+## 🏺 About Me
+- 🏛️ Inspired by Egyptian civilization and modern technology  
+- 🔐 Cyber Security & Network Security learner  
+- 💻 Working with Java, Python, Linux  
+- 📊 Interested in AI and Data Science  
+- 🧠 Exploring Machine Learning  
+
+---
+
+## 🌞 Egyptian Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3o7TKsQ8U0h8Y7e3xG/giphy.gif" width="450"/>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔐 Cyber Security & Network Security  
-- 💻 Java + Python Developer  
-- 🐧 Linux Power User  
-- 📊 Data Science & Machine Learning  
-- 🧠 AI Explorer  
-
----
-
-## ⚙️ Skills Animation Style
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
+## 🏺 Skills
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CyberSecurity-black?style=for-the-badge&logo=hackaday"/>
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Egypt%20Inspired-Gold?style=for-the-badge&logo=dependabot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-DarkRed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-SandyBrown?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-GoldenRod?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Orange?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Animation
+## 🌅 Animated Egyptian Scene
 
 <p align="center">
-  <img src="https://github.com/MoNoahSEC/MoNoahSEC/raw/output/github-contribution-grid-snake.svg"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Live Look)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoNoahSEC&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoNoahSEC&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MoNoahSEC&show_icons=true&theme=gruvbox"/>
 </p>
 
 ---
 
-## 🌐 Contact (Neon Style)
+## 🌍 Contact
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300"/>
 </p>
