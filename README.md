@@ -10,8 +10,7 @@
 ---
 
 ## 🐍 My Contribution Snake
-![snake gif](https://raw.githubusercontent.com/MoNoahSEC/MoNoahSEC/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/MoNoahSEC/MoNoahSEC/raw/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📊 GitHub Stats
