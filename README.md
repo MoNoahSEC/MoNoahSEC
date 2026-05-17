@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mohamed (MoNoahSEC)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;Java+Developer;Linux+Enthusiast;🧠 Machine Learning Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;Java+Developer;Linux+Enthusiast;Machine Learning Engineer)
 
 ## 🎯 About Me
 - 🔐 Specialized in **Cyber Security** & Network Security.
