@@ -7,13 +7,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- 🔎 **[Web Server Forensic Investigation](https://github.com/MoNoahSEC/Web-Server-Forensic-Investigation-Report)**: Web attack analysis using Python and ELK Stack.
-- 📊 **[System Resource Monitoring Dashboard](https://github.com/MoNoahSEC/System-Resource-Health-Monitoring-Dashboard)**: Real-time Linux monitoring script.
-- 🎯 **[RapidRecon](https://github.com/MoNoahSEC/RapidRecon)**: Highly concurrent network reconnaissance tool.
-
----
-
 ## 🐍 My Contribution Snake
 ![snake gif](https://github.com/MoNoahSEC/MoNoahSEC/raw/output/github-contribution-grid-snake.svg)
 
